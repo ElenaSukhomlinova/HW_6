@@ -60,7 +60,7 @@ public class Main {
             total1 = total1 + salary1;
             System.out.println("Месяц " + month + ", сумма накоплений равна " + total1 + "рублей");
         }
-        System.out.println("");
+        System.out.println(" ");
 
         System.out.println("Задача 10");
         int constant = 2;
